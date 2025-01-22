@@ -1,4 +1,4 @@
-# Aztra LLC
+# Aztra 
 All rights reserved © 2024
 
 **Welcome to the official GitHub repository of Aztra software!**  
