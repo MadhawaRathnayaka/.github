@@ -1,5 +1,5 @@
 # Aztra 
-All rights reserved © 2024
+All rights reserved © 2025
 
 **Welcome to the official GitHub repository of Aztra software!**  
 Aztra software specializes in Software development and SaaS.
@@ -7,9 +7,7 @@ Aztra software specializes in Software development and SaaS.
 ---
 
 ## **About Us**
-Aztra is a dynamic software company based in Trincomalee, Sri Lanka. Founded by a group of visionary friends from the Trincomalee campus of Eastern University, Sri Lanka, Aztra has grown into a hub of innovation and technology.
-
-We specialize in providing custom software development services and take pride in our growing line of proprietary software products. With a mission to revolutionize the tech landscape of Sri Lanka, Aztra is on its journey to becoming one of the nation’s leading technology companies.
+Aztra is a dynamic software company in Sri Lanka.We build innovative software solutions that help businesses grow and scale. Our expertise spans web applications, mobile development, and cloud-based services, delivering technology that drives your success.
 
 ## **Our Mission**
 "To build impactful software products that drive positive changes and improve everyday lives."
@@ -17,19 +15,24 @@ We specialize in providing custom software development services and take pride i
 ## **Our Vision**
 "To become a global leader in innovative software solutions, shaping the future of technology-driven business transformation."
 
-## **Services**
-We offer a range of services to meet customer needs:
-1. **Software Development**
-2. **SaaS**
-3. **Technical Consultant**
+## **Why Choose Aztra**
+We combine technical excellence with deep industry knowledge to deliver solutions that drive your business forward:
+1. [**Trusted Expertise**] - Over a decade of experience delivering enterprise-grade software solutions.
+2. [**Rapid Development**] - Agile methodology enabling faster time-to-market with exceptional quality.
+3. [**Dedicated Support**] - Round-the-clock technical assistance and ongoing maintenance.
+4. [**Innovative Solutions**] - Cutting-edge technologies tailored for your specific business needs.
 
-## **Projects**
-Here are some of our key projects:
-- [**Learning Management System**](https://github.com/dilshankarunarathne/institute-management-system) - A LMS platform designed to manage, deliver, and track educational content and training programs. It provides tools for creating courses, assessing learners, and fostering engagement, making it ideal for schools, businesses, and organizations to streamline their learning processes.
-- [**Point Of Sale**](#) - A POS system is a software and hardware solution used by businesses to process transactions, manage sales, track inventory, and generate reports. It streamlines operations, improves customer experience, and provides real-time insights into business performance.
+## **Our Featured Products**
+Innovative solutions designed to help your business thrive:
+- [**Aztra Academy**](#)- Comprehensive learning platform for professional development.
+- [**Aztra Apparel**](Coming Soon)- Custom branded merchandise solutions.
+- [**Aztra WEB POS**](#) - Cloud-based point of sale system for modern businesses.
+- [**Aztra LMS**](#) - Learning management system for educational institutions.
+- [**Mobile Education Platform**](Coming Soon)- Mobile learning solution for on-the-go education.
 
 ## **Contact Us**
 We’d love to hear from you! Reach us via:
-- **Email**: aztrasoftware@gmail.com
+- **Email**: jobs@aztra.lk
 - **Website**: aztra.lk
-- **Address**: Nilaveli, Trincomalee 31000, Sri Lanka
+- **Telephone**: +94 77 118 7076
+- **Address**: 1418C,Mathale Road,Kandy
