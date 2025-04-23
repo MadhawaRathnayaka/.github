@@ -17,22 +17,22 @@ Aztra is a dynamic software company in Sri Lanka.We build innovative software so
 
 ## **Why Choose Aztra**
 We combine technical excellence with deep industry knowledge to deliver solutions that drive your business forward:
-1. [**Trusted Expertise**] - Over a decade of experience delivering enterprise-grade software solutions.
-2. [**Rapid Development**] - Agile methodology enabling faster time-to-market with exceptional quality.
-3. [**Dedicated Support**] - Round-the-clock technical assistance and ongoing maintenance.
-4. [**Innovative Solutions**] - Cutting-edge technologies tailored for your specific business needs.
+1. **Trusted Expertise** - Over a decade of experience delivering enterprise-grade software solutions.
+2. **Rapid Development** - Agile methodology enabling faster time-to-market with exceptional quality.
+3. **Dedicated Support** - Round-the-clock technical assistance and ongoing maintenance.
+4. **Innovative Solutions** - Cutting-edge technologies tailored for your specific business needs.
 
 ## **Our Featured Products**
 Innovative solutions designed to help your business thrive:
-- [**Aztra Academy**](#)- Comprehensive learning platform for professional development.
-- [**Aztra Apparel**](Coming Soon)- Custom branded merchandise solutions.
-- [**Aztra WEB POS**](#) - Cloud-based point of sale system for modern businesses.
-- [**Aztra LMS**](#) - Learning management system for educational institutions.
-- [**Mobile Education Platform**](Coming Soon)- Mobile learning solution for on-the-go education.
+- **Aztra Academy**(#)- Comprehensive learning platform for professional development.
+- **Aztra Apparel**(Coming Soon)- Custom branded merchandise solutions.
+- **Aztra WEB POS**(#) - Cloud-based point of sale system for modern businesses.
+- **Aztra LMS**(#) - Learning management system for educational institutions.
+- **Mobile Education Platform**(Coming Soon)- Mobile learning solution for on-the-go education.
 
 ## **Contact Us**
 We’d love to hear from you! Reach us via:
-- **Email**: jobs@aztra.lk
+- **Email**: contact@aztra.lk
 - **Website**: aztra.lk
 - **Telephone**: +94 77 118 7076
 - **Address**: 1418C,Mathale Road,Kandy
