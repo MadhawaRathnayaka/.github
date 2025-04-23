@@ -1,10 +1,8 @@
 
 All rights reserved © 2025
 
-**Welcome to the official GitHub repository of Aztra software!**  
+*Welcome to the official GitHub repository of Aztra software!*  
 Aztra software specializes in Software development and SaaS.
-
----
 
 ## About Us
 Aztra is a dynamic software company in Sri Lanka. We build innovative software solutions that help businesses grow and scale. Our expertise spans web applications, mobile development, and cloud-based services, delivering technology that drives your success.
@@ -40,4 +38,3 @@ We'd love to hear from you! Reach us via:
 - **Telephone**: [+94 77 118 7076](tel:+94771187076)
 - **Address**: 1418C, Mathale Road, Kandy
 
----
